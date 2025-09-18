@@ -68,10 +68,10 @@ int main()
 }
 ```
 # OUTPUT
-![Screenshot 2025-04-10 103220](https://github.com/user-attachments/assets/2f91dd1c-325c-44fe-b6a7-f34dd4b2aa2c)
+<img width="1476" height="748" alt="Screenshot 2025-09-18 155232" src="https://github.com/user-attachments/assets/a97f2030-bef1-4f77-9e1c-18e7214f6208" />
 
-![Screenshot 2025-04-10 103256](https://github.com/user-attachments/assets/3a0c0168-e4f3-44af-b5f9-34f133b21e82)
 
+<img width="1474" height="755" alt="image" src="https://github.com/user-attachments/assets/ae33d306-1314-4587-b4b9-e4394601f902" />
 
 # RESULT
 
